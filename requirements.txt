@@ -1,0 +1,6 @@
+autopep8==1.5.7
+numpy==1.20.3
+opencv-contrib-python==4.5.2.54
+pi==0.1.2
+pycodestyle==2.7.0
+toml==0.10.2
